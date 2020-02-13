@@ -5,7 +5,7 @@ GAME FUNCTION:
 - Notify player of guesses remaining
 - Notify the player of the correct answer if loose
 - Let player choose to play again
-*/
+*/ let test;
 
 // 1. Game values
 let min = 1,
